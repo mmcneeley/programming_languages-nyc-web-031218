@@ -34,9 +34,3 @@ def reformat_languages(languages)
   puts "#{new_hash} to be returned"
   new_hash
 end
-
-
-
-# get a list of the possible languages
-# get a list of the possible styles
-# get a list of the possible types
